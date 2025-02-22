@@ -1,7 +1,7 @@
 import React from 'react'
 import BasicEffect from './components/BasicEffect'
 import CounterEffect from './components/CounterEffect'
-import FetchDataEffect from './FetchDataEffect'
+import FetchDataEffect from './components/FetchDataEffect'
 
 const App = () => {
   return (
